@@ -17,6 +17,7 @@
 - Improving my database skills.
 
 
+</p>
 <### - Languages and Tools...
 
 <p align="center">
