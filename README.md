@@ -8,3 +8,10 @@
     I work as a business analyst and admire mobile technology. At the moment I'm improving my Flutter knowledge with some personal projects.
   </samp>
 </p>
+</p>
+
+### - I'm currently...
+
+- Improving my Flutter skills.
+- Learning to replicate popular app development.
+- Improving my database skills.
