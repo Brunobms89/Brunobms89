@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://5efce21e120dc77e32455754.static-01.com/l/images/dc858e087ed3ae7beaa45f34ee36e98caaba5f31.gif" width="30%">
+  <img src="loading.gif" width="30%">
   <br><br>
   <samp>
     Hi there! I'm Bruno :wave:
